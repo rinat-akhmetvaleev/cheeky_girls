@@ -1,0 +1,14 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    font-family: 'Roboto', sans-serif;
+}
