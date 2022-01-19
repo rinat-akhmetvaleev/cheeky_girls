@@ -1,0 +1,33 @@
+.menu{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.menu_list,
+.location,
+.language {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.menu_list ul,
+.language ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.menu_list ul>li,
+.language ul>li{
+    margin-right: 30px;
+}
+
